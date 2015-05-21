@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Recorder</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_exit">退出程序</string><string name="btn_start">启动</string>
+    <string name="btn_stop">停止</string>
+    <string name="btn_target">从联系人中选取</string>
+    <string name="hint_search">搜索联系人</string>
+    <string name="btn_list">查看已添加的联系人</string>
+    <string name="btn_manual_add">手动添加</string>
+    <string name="action_mode_mic">设置录音模式为Mic</string>
+    <string name="action_mode_voice_call">设置模式为VoiceCall</string>
+    <string name="action_delete_all">删除所有</string>
+    
+    <string name="hint_name">张三</string><string name="hint_number">13800138000</string>
+    
+
+</resources>
